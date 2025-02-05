@@ -55,7 +55,10 @@
 
 **건물 연면적이 크면 전기 사용량이 높을 것이다.**
 
-![연면적](https://github.com/aprkal12/DataPJ/blob/master/results/total_floor_area.png?raw=true)
+
+<img src="https://github.com/aprkal12/DataPJ/blob/main/results/total_floor_area.png?raw=true" width="700" height="400"/>
+
+
 
 
 
